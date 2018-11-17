@@ -9,5 +9,5 @@ def my_each(collection)
 end
 
 my_each(collection) do |input|
-  puts input
+  input
 end
